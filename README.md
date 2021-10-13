@@ -1,2 +1,2 @@
 # spring
-sts
+web부터 db연동까지!
